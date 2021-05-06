@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+}
+
+.card {
+
+  height:200px;
+  background:aliceblue;
+  display:flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  margin:10px
+}
